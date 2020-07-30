@@ -4,7 +4,7 @@ Library           Selenium2Library
 *** Variables ***
 ${URL}            https://opensource-demo.orangehrmlive.com/
 @{CREDENTIALS}    Admin    admin123
-&{LOGIN}          Username=Admin     Password=admin123
+&{LOGIN}          Username=Admin    Password=admin123
 
 *** Test Cases ***
 Variables_2
